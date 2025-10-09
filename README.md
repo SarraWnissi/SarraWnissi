@@ -21,10 +21,10 @@ Currently, I’m also exploring **Cloud Computing**, **Docker**, **Kubernetes**,
 - 🔐 Studying **secure authentication systems** (JWT, OAuth2, Spring Security, etc.)
 
 ---
-
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sarrawnissi)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com/sarrawnissi)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail)](mailto:sarra.wnissi@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarra-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarra-ounissi-1881b8247/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Sarra-black?logo=github&logoColor=white)](https://github.com/SarraWnissi)  
+[![Email](https://img.shields.io/badge/Email-me-?color=red&logo=gmail&logoColor=white)](mailto:sarrawnissi@gmail.com)
 
+---
